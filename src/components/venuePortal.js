@@ -7,7 +7,9 @@ export default class VenuePortal extends Component {
   constructor() {
     super();
     this.state = {
-      process: false
+      process: false,
+      loggedIn: false,
+      venue: null
       }
       this.setVenue = this.setVenue.bind(this);
     }
