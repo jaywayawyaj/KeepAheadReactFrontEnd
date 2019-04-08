@@ -1,7 +1,7 @@
 # Keep Ahead
 
 ## Description
-A small web app designed to assist users in donating food to the homeless. The app allows a user, when approached by a homeless person, to donate an amount of money of their choosing to a local eatery. The venue then receives a notification of the donation and the amount. Attached to each donation is the name of the recipient and a passphrase decided on by the donator, these allow the venue to identify the recipient and offer them the amount donated in food or drink.
+A web app designed to assist users in donating food to the homeless. The app allows a user, when approached by a homeless person, to donate an amount of money of their choosing to a local eatery. The venue then receives a notification of the donation and the amount. Attached to each donation is the name of the recipient and a passphrase decided on by the donator, these allow the venue to identify the recipient and offer them the amount donated in food or drink.
 
 ## [See it in action](https://drive.google.com/file/d/1-OMjbBAhjZaJ-WrViB3Oj7JGVe8WXxNC/view)
 
