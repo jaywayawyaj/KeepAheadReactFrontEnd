@@ -139,3 +139,4 @@ There is a lot of work I would do if I were to push forward on this project.
 - [Alina Goaga](https://github.com/AlinaGoaga)
 - [Huxley Millard](https://github.com/HuxleyM)
 - [Alex Alikhani](https://github.com/alexalikhani95)
+- [Jethro Whaley](https://github.com/jaywayawyaj)
