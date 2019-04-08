@@ -134,8 +134,8 @@ There is a lot of work I would do if I were to push forward on this project.
 
 ## Authors
 
-- [Jethro Whaley](https://github.com/jaywayawyaj)
-- [Joao Abbot-Griven](https://github.com/joaoag)
+- [Georges Les Vaillant](https://github.com/stonefarmer9)
+- [Joao Abbot-Gribben](https://github.com/joaoag)
 - [Alina Goaga](https://github.com/AlinaGoaga)
 - [Huxley Millard](https://github.com/HuxleyM)
 - [Alex Alikhani](https://github.com/alexalikhani95)
